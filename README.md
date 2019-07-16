@@ -1,5 +1,15 @@
 # HOgit
-Repositorio con ejercicios para practicar comandos básicos de git
+Repo
+si
+torio
+con
+ejercicios
+para
+practicar
+comandos
+básicos
+de
+git
 
 ## Qué podemos hacer
 
